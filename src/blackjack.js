@@ -59,6 +59,8 @@ function Player() {
             return this;
         },
 
+        // TODO: default for numCards = 1
+        //       verify is suit has cards
         handleCards: function (subject, numCards) {
             var suit,
                 i;
