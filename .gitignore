@@ -1,0 +1,5 @@
+node_modules/
+coverage/
+reports/
+_SpecRunner.html
+.grunt/
